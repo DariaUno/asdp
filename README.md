@@ -1,25 +1,16 @@
 
-# Socket.IO Chat
+# ASDP Chat
 
-A simple chat demo for socket.io
+A simple chat for advanced server development project course.
+http://asdpchat.azurewebsites.net
 
-## How to use
+## What used
 
-```
-$ cd socket.io
-$ npm install
-$ cd examples/chat
-$ npm install
-$ node .
-```
+Node.js, socket.io, express and azure portal
 
-And point your browser to `http://localhost:3000`. Optionally, specify
-a port by supplying the `PORT` env variable.
 
 ## Features
 
-- Multiple users can join a chat room by each entering a unique username
-on website load.
+- Multiple users can join a chat room by each entering a unique username on website load.
 - Users can type chat messages to the chat room.
-- A notification is sent to all users when a user joins or leaves
-the chatroom.
+- A notification is sent to all users when a user joins or leaves the chatroom.
